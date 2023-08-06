@@ -1,0 +1,13 @@
+#################################
+Passos iniciais:
+
+1- Baixar e preparar Ambiente Developer Studio
+2- Instalar JDK
+3- Preparar Bundle Tomcat 
+4- Subir o servidor
+
+#################################
+Config Básica do Servidor
+email: test@liferay.com
+senha: teste
+Banco de Dados: Hypersonic
